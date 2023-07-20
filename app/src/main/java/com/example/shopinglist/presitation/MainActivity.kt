@@ -1,4 +1,4 @@
-package com.example.shopinglist
+package com.example.shopinglist.presitation
 
 import android.os.Bundle
 import com.google.android.material.bottomnavigation.BottomNavigationView
